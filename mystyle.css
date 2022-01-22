@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+    font-family:"Courier New", Courier, monospace;
+  }
+
+img {
+    border-radius: 50%;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+ .text-container {
+     margin: 20px;
+ } 
